@@ -1,0 +1,10 @@
+
+
+create table `personas` (
+	`id` int (11),
+	`cod` varchar (765),
+	`name` varchar (765),
+	`descr` varchar (765),
+	`quant` int (11),
+	`cat` varchar (765)
+); 
